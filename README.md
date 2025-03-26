@@ -71,7 +71,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: calc(100vh - 1px);
+    min-height: 100vh;
 }
 
 .card {
